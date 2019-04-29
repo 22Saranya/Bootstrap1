@@ -3,9 +3,6 @@
 My Custom CSS
 =============
 
-Author:  Brad Hussey
-Updated: August 2013
-Notes:	 Hand coded for Udemy.com
 
 */
 
@@ -13,7 +10,11 @@ Notes:	 Hand coded for Udemy.com
 /* --------------------------------------
    Layout
    -------------------------------------- */
-
+footer h6,
+a
+{
+   color: white;
+}
 
 
 /* --------------------------------------
@@ -50,19 +51,26 @@ height: 100px;
 
    #c1
    {
-      padding-top:7cm;
-      font-color: blue;
+      padding-top:1cm;
+      padding-left: 14cm;
+      color: red;
+      font-size: 24px;
    }
+   
    #c2
    {
-      padding-top:7cm;
-       font-color: red;
+     padding-top:1cm;
+      padding-left: 14cm;
+      color: red;
+       font-size: 24px;
    }
    #c3
    {
-      padding-top:7cm;
-       font-color: red;
-   }
+      padding-top:1cm;
+      padding-left: 14cm;
+      color: red;
+       font-size: 24px;
+   } 
    .carousel-caption{
       font-size: 30px;
    }
@@ -134,5 +142,6 @@ height: 100px;
    }
 }
 footer{
-   background: grey;
+   background: #333;
+
 }
