@@ -1,3 +1,2 @@
-# Bootstrap1
-file:///home/saranya/Desktop/mywebsite/index.html
+ https://22saranya.github.io/Bootstrap1/
 
